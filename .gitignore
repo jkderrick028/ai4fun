@@ -1,12 +1,12 @@
 *
 
 !.gitignore
-![a-zA-Z]*.m
-![a-zA-Z]*.txt
-![a-zA-Z]*.py
-![a-zA-Z]*.sl
-![a-zA-Z]*.md
-![a-zA-Z]*.ipynb
+![0-9a-zA-Z]*.m
+![0-9a-zA-Z]*.txt
+![0-9a-zA-Z]*.py
+![0-9a-zA-Z]*.sl
+![0-9a-zA-Z]*.md
+![0-9a-zA-Z]*.ipynb
 
 !*/
 
